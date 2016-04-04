@@ -9,7 +9,7 @@ import javax.crypto.spec.*;
 
 /**
  * @author Jafaripur
- * email's Jafaripur@Gmail.Com
+ * email's mjafaripur@yahoo.Com
  * @version 1.0.0
  */
 public class Encryption {
